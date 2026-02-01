@@ -1,4 +1,6 @@
-## OCR + NLP End-to-End Pipeline
+## OCR + NLP End-to-End Pipeline 
+
+![Demo](demo/image_to_text_demo.gif)
 
 An end-to-end **Optical Character Recognition (OCR) and Natural Language Processing (NLP)** system built for extracting structured text and insights from images, screenshots, and handwritten notes.
 Supports screen auto-capture, snipping-style region selection, multilingual and handwritten OCR, followed by NLP tasks including summarization, named entity recognition, and keyword extraction — all delivered through an interactive Streamlit web app.
