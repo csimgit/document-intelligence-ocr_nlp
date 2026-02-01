@@ -1,0 +1,15 @@
+pytesseract
+opencv-python
+Pillow
+numpy
+mss
+streamlit
+easyocr
+torch
+transformers
+sentencepiece
+langdetect
+scikit-learn
+streamlit-drawable-canvas
+
+

@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+venv_nlp_ocr/
+.venv_nlp_ocr/
+
+# Environment variables
+.env
+
+# Data
+data/input/*
+data/output/*
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Streamlit
+.streamlit/
+
+# Logs
+*.log
